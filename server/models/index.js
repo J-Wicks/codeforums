@@ -1,4 +1,4 @@
-const Sequelize = require('sequelize')
+const Sequelize = require('sequelize');
 
 const Users = require('./Users');
 const Threads = require('./Threads');
